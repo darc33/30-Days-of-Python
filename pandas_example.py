@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import re
 
-df = pd.read_csv('hacker_news.csv')
+df = pd.read_csv('Resources/hacker_news.csv')
 
 #Primeras cinco lineas
 
